@@ -3,6 +3,12 @@
 CS专业大三学生 | Java 技术栈 | 对 AI 超级感兴趣 🚀
 正在把 AI 想法用“氛围编程”（Vibe Coding）的方式快速落地，也在努力参与开源～  
 欢迎来到我的小世界，这里记录学习、项目和成长！
+## 📊 GitHub Stats & Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=zshs000&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" ... />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zshs000&layout=compact&theme=onedark&hide_border=true&langs_count=8" width="40%" />
+</div>
 
 ### 🛠️ 技术栈 & 技能
 - **后端**：Java（Spring Boot / Spring Cloud Alibaba）
