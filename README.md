@@ -18,7 +18,7 @@ CS专业大三学生 | Java 技术栈 | 对 AI 超级感兴趣 🚀
 ### 🔥 最近在做 / 亮点项目
 - **[task_scheduler](https://github.com/zshs000/task_scheduler)**：给本地 AI 助手加“闹钟”功能的定时任务工具（支持自然语言、邮件提醒、跨平台）—— Python 项目
 - **[ExcelAIQ-Bank](https://github.com/zshs000/ExcelAIQ-Bank)**：基于 Java 的 Excel AI 题库管理工具  
-- 第一次真实开源贡献：给 **[Alibaba Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba)** 提 PR（修复日志中敏感字段泄露风险），已被合并进 2025.1.0.0 版本！（超级开心～）  
+- 第一次真实开源贡献：给 **[Alibaba Spring Cloud Alibaba](https://github.com/alibaba/spring-cloud-alibaba)** 提 PR（修复日志中敏感字段泄露风险），已被合并进 2025.1.x 版本！（超级开心～）  
 - CSDN 博客持续输出：Java 底层、AI 应用、开源贡献记录等等文章  
 
 ### 📫 怎么找我
