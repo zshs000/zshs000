@@ -1,8 +1,9 @@
 # Hi, I'm zshs000 👋
 
-CS专业大三学生 | Java 技术栈 | 对 AI 超级感兴趣 🚀
-正在探索 **Harness Engineering** —— 通过构建结构化的控制系统来可靠地驾驭 AI Agent，把想法落地为生产级项目，也在努力参与开源～  
-欢迎来到我的小世界，这里记录学习、项目和成长！
+CS专业大三学生 | Java 技术栈 | 对 AI 超级感兴趣 🚀   
+🔍 核心探索方向：**Harness Engineering** —— 通过构建结构化控制系统，可靠地驾驭AI Agent   
+💡 专注于：把想法落地为生产级项目，同时参与开源    
+✨ 这里记录：我的学习、项目与开源成长之路  
 ## 📊 GitHub Stats & Top Languages
 
 <div align="center">
