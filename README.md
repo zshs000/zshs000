@@ -1,7 +1,7 @@
 # Hi, I'm zshs000 👋
 
 CS专业大三学生 | Java 技术栈 | 对 AI 超级感兴趣 🚀
-正在把 AI 想法用“氛围编程”（Vibe Coding）的方式快速落地，也在努力参与开源～  
+正在探索 **Harness Engineering** —— 通过构建结构化的控制系统来可靠地驾驭 AI Agent，把想法落地为生产级项目，也在努力参与开源～  
 欢迎来到我的小世界，这里记录学习、项目和成长！
 ## 📊 GitHub Stats & Top Languages
 
@@ -12,7 +12,7 @@ CS专业大三学生 | Java 技术栈 | 对 AI 超级感兴趣 🚀
 
 ### 🛠️ 技术栈 & 技能
 - **后端**：Java（Spring Boot / Spring Cloud Alibaba）
-- **AI / 大模型应用**：Python、RAG、AI Agent & Skill 开发、Claude 等大模型工具链、Vibe Coding  
+- **AI / 大模型应用**：Python、RAG、AI Agent 开发、Claude 等大模型工具链、Harness Engineering
 - **其他**：Git、Linux 基本操作、Markdown 写作  
 
 ### 🔥 最近在做 / 亮点项目
@@ -28,7 +28,7 @@ CS专业大三学生 | Java 技术栈 | 对 AI 超级感兴趣 🚀
 - GitHub Discussions / Issues：直接评论我的仓库也 OK！
 
 ### 🌱 正在学 / 下一步计划
-- 深入 AI 工作流、多模态应用 & Vibe Coding实践   
+- 深入 **Harness Engineering** 实践（让 AI Agent 可靠地完成复杂任务）
 - 继续贡献开源（欢迎推荐有趣的项目！）  
 - 完善更多小工具，争取让它们更有用
 - **找一份实习**（欢迎推荐机会～）
